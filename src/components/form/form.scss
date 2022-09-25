@@ -1,0 +1,16 @@
+section{
+  margin: 0 auto;
+  width: 100%;
+  background-color: rgb(88, 87, 87);
+}
+form{
+display: flex;
+flex-direction: column;
+label{
+  color: white;
+  margin-top: .5rem;
+}
+button{
+  margin-top: .5rem;
+}
+}
